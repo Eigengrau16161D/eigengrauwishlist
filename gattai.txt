@@ -1,3 +1,4 @@
+title:Personal Wishlist for Eigengrau
 // Jorum's Claw PVP
 //notes:mine,pvp
 dimwishlist:item=62937067&perks=839105230,1885400500,11551321,460017080,3989629871
