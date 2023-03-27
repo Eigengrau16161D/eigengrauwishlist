@@ -1,1 +1,6 @@
-
+// Jorum's Claw PVP
+//notes:mine,pvp
+dimwishlist:item=62937067&perks=839105230,1885400500,11551321,460017080,3989629871
+// Jorum's Claw Pve
+//notes:mine,pve
+dimwishlist:item=62937067&perks=839105230,1968497646,1168162263,2610012052,3989629871
